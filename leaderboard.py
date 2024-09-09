@@ -1,6 +1,6 @@
 import utils
 
-submissions = utils.get_submissions('reidxtreme3-final-round')
+submissions = utils.get_submissions('sample_contest')
 
 scores_by_team = {}
 
